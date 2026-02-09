@@ -1,8 +1,8 @@
 <?php
 
-namespace OrchidBuilder;
-
+namespace Abobandit\OrchidBuilder;
 use Illuminate\Support\ServiceProvider;
+
 class OrchidBuilderServiceProvider extends ServiceProvider
 {
     public function boot()

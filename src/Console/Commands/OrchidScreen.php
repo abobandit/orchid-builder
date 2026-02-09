@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace OrchidBuilder\Console\Commands;
+namespace Abobandit\OrchidBuilder\Console\Commands;
 
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Attribute\AsCommand;

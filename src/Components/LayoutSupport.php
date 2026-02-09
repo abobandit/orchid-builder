@@ -1,6 +1,6 @@
 <?php
 
-namespace OrchidBuilder\Components;
+namespace Abobandit\OrchidBuilder\Components;
 
 use Orchid\Screen\Fields\Input;
 

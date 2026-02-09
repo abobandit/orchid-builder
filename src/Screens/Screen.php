@@ -1,7 +1,7 @@
 <?php
 
 
-namespace OrchidBuilder\Screens;
+namespace Abobandit\OrchidBuilder\Screens;
 
 use Illuminate\Http\Request;
 use Orchid\Screen\Screen as BaseScreen;

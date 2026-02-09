@@ -1,9 +1,9 @@
 <?php
 
 
-namespace OrchidBuilder\Helpers;
+namespace Abobandit\OrchidBuilder\Helpers;
 
-use OrchidBuilder\Components\ProcessModals;
+use Abobandit\OrchidBuilder\Components\ProcessModals;
 use Orchid\Screen\Layout as LayoutScreen;
 use Orchid\Screen\Layouts\Modal;
 use Orchid\Support\Facades\Layout;

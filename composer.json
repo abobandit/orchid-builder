@@ -1,6 +1,15 @@
 {
   "name": "abobandit/orchid-builder",
+  "description": "Orchid Builder - набор готовых компонентов для Orchid Platform",
   "version": "1.0.0",
+  "keywords": ["orchid", "laravel", "builder", "admin", "panel"],
+  "authors": [
+  {
+    "name": "abobabandit",
+    "email": "chemusuke@gmail.com",
+    "homepage": "https://github.com/abobandit"
+  }
+],
   "type": "library",
   "require": {
     "php": "^8.2",
@@ -9,7 +18,14 @@
   },
   "autoload": {
     "psr-4": {
-      "abobandit\\OrchidBuilder\\": "./src/"
+      "Abobandit\\OrchidBuilder\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Abobandit\\OrchidBuilder\\OrchidBuilderServiceProvider"
+      ]
     }
   },
   "license": "MIT",

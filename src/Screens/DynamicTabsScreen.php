@@ -1,6 +1,6 @@
 <?php
 
-namespace OrchidBuilder\Screens;
+namespace Abobandit\OrchidBuilder\Screens;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Request;

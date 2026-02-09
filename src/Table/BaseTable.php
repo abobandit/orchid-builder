@@ -1,6 +1,6 @@
 <?php
 
-namespace OrchidBuilder\Table;
+namespace Abobandit\OrchidBuilder\Table;
 
 
 use Orchid\Screen\Actions\Button;
